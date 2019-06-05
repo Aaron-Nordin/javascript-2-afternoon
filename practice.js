@@ -15,6 +15,11 @@
 */
 
 //Code here
+let me = {
+  name: "Aaron",
+  age: "32"
+}
+me.age
 
 ////////// PROBLEM 2 //////////
 
