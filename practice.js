@@ -69,7 +69,7 @@ favoriteThings.book = "Harry Potter"
 //Code here
 let backpack = {}
 let item = "firstPocket"
-backpack["item"] = "chapstick"
+backpack[item] = "chapstick"
 backpack.color = "black"
 
 /*
