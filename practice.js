@@ -19,7 +19,7 @@ let me = {
   name: "Aaron",
   age: "32"
 }
-me.age
+alert(me.age)
 
 ////////// PROBLEM 2 //////////
 
