@@ -30,12 +30,12 @@ alert(me.age)
 
 //Code here
 let favoriteThings = {
-  band = "Band of Skulls",
-  food = "Thai",
-  person = "Wifey",
-  book = "Way of Kings",
-  movie = "LotR",
-  holiday = "Thailand"
+  band: "Band of Skulls",
+  food: "Thai",
+  person: "Wifey",
+  book: "Way of Kings",
+  movie: "LotR",
+  holiday: "Thailand"
 }
 
 /*
