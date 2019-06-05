@@ -29,6 +29,14 @@ me.age
 */
 
 //Code here
+let favoriteThings = {
+  band = "Band of Skulls",
+  food = "Thai",
+  person = "Wifey",
+  book = "Way of Kings",
+  movie = "LotR",
+  holiday = "Thailand"
+}
 
 /*
   After you've made your object, use bracket or dot notation to add another key named 'car' with the value being your favorite car
@@ -36,6 +44,8 @@ me.age
 */
 
 //Code here
+favoriteThings.car = "Hurricane"
+favoriteThings.brand = "wut"
 
 /*
   Now use bracket or dot notation to change the value of the food key in your favoriteThings object to be 'Chicken Nuggets'
@@ -43,6 +53,8 @@ me.age
 */
 
 //Code here
+favoriteThings.food = "Chicken Nuggets"
+favoriteThings.book = "Harry Potter"
 
 ////////// PROBLEM 3 //////////
 
