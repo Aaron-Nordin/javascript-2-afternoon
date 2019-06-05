@@ -67,17 +67,17 @@ favoriteThings.book = "Harry Potter"
 */
 
 //Code here
-let backpack = {}
+let backPack = {}
 let item = "firstPocket"
-backpack[item] = "chapstick"
-backpack.color = "black"
+backPack[item] = "chapstick"
+backPack.color = "black"
 
 /*
   After you do the above, alert your entire backPack object.
 */
 
 //Code here
-alert(backpack)
+alert(backPack)
 
 /*
 You probably noticed that it just alerted [object Object].
@@ -86,7 +86,7 @@ Instead, console.log your whole backPack object and then check out the console.
 */
 
 //Code here
-console.log(backpack)
+console.log(backPack)
 
 ////////// PROBLEM 4 //////////
 
